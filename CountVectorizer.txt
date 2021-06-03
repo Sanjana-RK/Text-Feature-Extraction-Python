@@ -1,0 +1,13 @@
+1. Scikit-learn's CountVectorizer is used to convert a collection of text documents to a vector of term/token counts.
+
+2. It enables the ​pre-processing of text data prior to generating the vector representation. 
+
+3. This functionality makes it a highly flexible feature representation module for text.
+
+4. CountVectorizer tokenizes(tokenization means breaking down a sentence or paragraph or any text into words) 
+the text along with performing very basic preprocessing like removing the punctuation marks, converting all the words to lowercase, etc.
+
+5. CountVectorizer provides a simple way to both tokenize a collection of text documents and build a vocabulary of known words, 
+but also to encode new documents using that vocabulary.
+
+6. You can use it as follows: Create an instance of the CountVectorizer class.

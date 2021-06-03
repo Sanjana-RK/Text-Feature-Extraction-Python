@@ -1,0 +1,10 @@
+1. TF-IDF is a statistical measure that evaluates how relevant a word is to a document in a collection of documents.
+
+2. This is done by multiplying two metrics: how many times a word appears in a document, and the inverse document frequency 
+of the word across a set of documents.
+
+3.tf-idf Model for Page Ranking. tf-idf stands for Term frequency-inverse document frequency.
+
+4. The tf-idf weight is a weight often used in information retrieval and text mining.
+
+ 5.Variations of the tf-idf weighting scheme are often used by search engines in scoring and ranking a document’s relevance given a query.
